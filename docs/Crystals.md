@@ -1,6 +1,6 @@
 ## Crystals
 ### 12MHz.
-1) Yajingxin: [TAXM12M4RLBDDT2T](/PDF/Yajingxin/TAXM12M4RLBDDT2T_12MHz.pdf) (RP2040 compatible)
+1. Yajingxin: [TAXM12M4RLBDDT2T](/PDF/Yajingxin/TAXM12M4RLBDDT2T_12MHz.pdf) (RP2040 compatible)
    1) Size: `3225`, `12MHz`.
    2) Load Capacitance: `20pF`.
    3) Drive Level: `100uw`.
