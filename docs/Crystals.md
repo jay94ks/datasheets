@@ -6,3 +6,4 @@
    3) Drive Level: `100uw`.
    4) ESR: `50 ohm`. (RP2040 recommended value)
    5) Comments: When using this as the RP2040 main crystal, if the chip does not boot properly, it is because the bootROM advances to the next stage earlier than the XOSC oscillation starts. So, add the following option to the `CMakeLists.txt` file: `add_compile_definitions(PICO_XOSC_STARTUP_DELAY_MULTIPLIER=48)`
+   and, usually, `32` or higher value is recommended.
