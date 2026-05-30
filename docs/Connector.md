@@ -1,7 +1,7 @@
 ## Connectors.
 ### USB connectors.
 1. HANXIA: [HX TYPE-C 16PIN](/PDF/HANXIA/HX%20TYPE-C%2016PIN.pdf)
-   1) Pin count: `16`.
+   1) Pin count: `16`, Surface-Mount.
    2) Pin order: `A12, B1, B5, A8, [B6, A7, A6, B7], A5, B8, B9, A4, B12, A1`.
    3) Pin pairs of `A6, B6`: `USB_DP`, `A7, B7`: `USB_DM`.
    4) Max voltage, current: `20V DC, 3A`.
@@ -12,7 +12,7 @@
    9) Durability: `5000 cycles`.
 
 2. Unknown brand: [HC-TYPE-C 16PIN](/PDF/unknown/HC-TYPE-C%2016pin%200.8mm.pdf)
-   1) Pin count: `16`.
+   1) Pin count: `16`, Middle-Mount.
    2) Pin order: `A12, B1, B5, A8, [B6, A7, A6, B7], A5, B8, B9, A4, B12, A1`.
    3) Pin pairs of `A6, B6`: `USB_DP`, `A7, B7`: `USB_DM`.
    4) Max voltage, current: `30V DC, 3A`.
@@ -23,7 +23,7 @@
    9) https://ko.aliexpress.com/item/1005005555059450.html
 
 3. Unknown brand: [TYPE-C 16PIN](/PDF/unknown/TYPE-C%2016pin%201.6mm.pdf)
-   1) Pin count: `16`.
+   1) Pin count: `16`, Middle-Mount.
    2) Pin order: `A12, B1, B5, A8, [B6, A7, A6, B7], A5, B8, B9, A4, B12, A1`.
    3) Pin pairs of `A6, B6`: `USB_DP`, `A7, B7`: `USB_DM`.
    4) Max voltage, current: `5V DC, 3A`.
